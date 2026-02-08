@@ -46,7 +46,7 @@ Just download the script. It requires Python 3.6+.
 ```bash
 git clone https://github.com/Somchandra17/gqlsweep.git
 cd gqlsweep
-chmod +x gqlsweep.py
+python3 gqlsweep.py
 ```
 
 ## Docker Support
