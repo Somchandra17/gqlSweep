@@ -1,0 +1,20 @@
+# Python internals
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv
+
+# Tool outputs
+findings.json
+vuln_results.json
+report.html
+burp.xml
+*.log
+
+# Mac junk
+.DS_Store
