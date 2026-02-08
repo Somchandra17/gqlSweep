@@ -1,5 +1,6 @@
 # gqlSweep
 ![Python](https://img.shields.io/badge/Python-3.7+-brightgreen)
+
 A comprehensive, schema-aware security testing tool for GraphQL endpoints. This tool automatically introspects your GraphQL schema and generates dynamic security tests to identify vulnerabilities.
 
 ```text
