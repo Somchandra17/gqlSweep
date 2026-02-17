@@ -13,6 +13,17 @@ A comprehensive, schema-aware security testing tool for GraphQL endpoints. This 
            by 0xs0m
 ```
 
+## Now Available as Burp Suite Extension!
+
+**NEW**: GQLSweep is now available as a Burp Suite extension! Test GraphQL endpoints directly
+ from Burp with:
+- Right-click context menu integration
+- Real-time scanning with visual progress
+- Color-coded vulnerability results
+- Interactive request/response viewer
+
+**[See Burp Extension Installation Guide](BURP_EXTENSION_README.md)**
+
 ## Features
 
 - **Schema-Aware Testing**: Automatically fetches and parses the GraphQL schema to find real fields and arguments.
